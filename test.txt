@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-This is another first commit!
-=======
 This is yat first commit!
->>>>>>> feature
-2nd commit yay!!!!!!
+
+
+2ncommit yay!!!!!!
